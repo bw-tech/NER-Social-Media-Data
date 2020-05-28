@@ -17,6 +17,9 @@ For the second approach I experimented with different padding lengths, batch siz
 ## Future Steps:
 Given more time, I would have liked to utilize differnent types of transformer models. For instance, RoBERTa-large could potentially bring in better results. 
 
+## Special Thanks:
+Thank you to Yoav Artzi for all the help with NLP tasks!
+
 ## Citations:
 
 https://huggingface.co/transformers/model_doc/bert.html#bertfortokenclassification 
