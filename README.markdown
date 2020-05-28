@@ -1,6 +1,6 @@
 # Named-Entity Recognition on Social Media Data
 
-This project was created to compare multiple methods of named-entity recognition on social media data. In particular we utilized twitter tweet data. However, it is possible to also utilize the existing models on other forms of text. 
+This project was created to compare multiple methods of named-entity recognition on social media data (twitter tweets). However, it is possible to also utilize the existing models on other forms of text. 
 
 ## Methods
 1. Bi-directional LSTM model 
