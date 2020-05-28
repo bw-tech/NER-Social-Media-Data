@@ -14,7 +14,10 @@ For this project, I implemented two different approaches. The first approach was
 For both experiments, I stuck with the basic data we were supplied. I ran multiple experiments with both models. The first model I experimented with different network structures, embedding dimensions and methods, loss functions, and methods to deal with unknowns words.
 For the second approach I experimented with different padding lengths, batch sizes, epochs, and loss functions. The F1 test scores for the first and second models are 0.42124 and 0.62284 respectively. 
 
-Citations:
+## Future Steps:
+Given more time, I would have liked to utilize differnent types of transformer models. For instance, RoBERTa-large could potentially bring in better results. 
+
+## Citations:
 
 https://huggingface.co/transformers/model_doc/bert.html#bertfortokenclassification 
 
